@@ -5,7 +5,7 @@ import android.graphics.Color;
 import java.util.Random;
 
 /**
- * Created by kapoo on 14-01-2018.
+ * Created on 14-01-2018.
  */
 public class ColorWheel {
 
